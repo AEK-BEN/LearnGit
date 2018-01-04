@@ -1,5 +1,6 @@
 #comment 
-*.txt
+commit.txt
+file-to-delete2.txt
 .DS_Store
 *.zip
 .gz
